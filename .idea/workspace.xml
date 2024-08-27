@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0f0b127c-a8a9-44da-842c-f88b5f10f4f9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/pythonProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Numbers/ArmstrongNum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Numbers/CheckPrime" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Numbers/CountDgts.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Numbers/Factorial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Numbers/Fibnocii.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Numbers/GCD.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Numbers/LCM.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Numbers/NumberSys.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Numbers/Palindrome.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Numbers/PerfectNum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Numbers/Reverse.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Numbers/SumOfDigits.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Numbers/SumOfNNaturals.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Numbers/even_odd.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="2lDXuW9FTEteSb6Tb1T9nKbhNmO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="sortKey" value="BY_TIME_ASCENDING" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.ArmstrongNum.executor": "Run",
+    "Python.CheckPrime.executor": "Run",
+    "Python.CountDgts.executor": "Run",
+    "Python.DecToBinary.executor": "Run",
+    "Python.Factorial.executor": "Run",
+    "Python.Fibnocii.executor": "Run",
+    "Python.GCD.executor": "Run",
+    "Python.LCM.executor": "Run",
+    "Python.Palindrome.executor": "Run",
+    "Python.PerfectNum.executor": "Run",
+    "Python.Reverse.executor": "Run",
+    "Python.SumOfDigits.executor": "Run",
+    "Python.SumOfNNaturals.executor": "Run",
+    "Python.even_odd.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "dart.analysis.tool.window.visible": "false",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-abccbe9d933a-ba05f1cad1b1-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.20224.428" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0f0b127c-a8a9-44da-842c-f88b5f10f4f9" name="Changes" comment="" />
+      <created>1724715844661</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1724715844661</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="89c64a1b-78dc-4c5f-a796-8c742747669f" value="EDITOR" />
+      </map>
+    </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="89c64a1b-78dc-4c5f-a796-8c742747669f">
+          <value>
+            <State />
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
