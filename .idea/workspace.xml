@@ -4,27 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0f0b127c-a8a9-44da-842c-f88b5f10f4f9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/pythonProject.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Numbers/ArmstrongNum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Numbers/CheckPrime" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Numbers/CountDgts.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Numbers/Factorial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Numbers/Fibnocii.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Numbers/GCD.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Numbers/LCM.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Numbers/NumberSys.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Numbers/Palindrome.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Numbers/PerfectNum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Numbers/Reverse.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Numbers/SumOfDigits.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Numbers/SumOfNNaturals.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Numbers/even_odd.py" afterDir="false" />
+    <list default="true" id="0f0b127c-a8a9-44da-842c-f88b5f10f4f9" name="Changes" comment="first-commit">
+      <change afterPath="$PROJECT_DIR$/Strings/CountWorsds.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Strings/FrequencyofaChar.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Strings/Palindrome.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Strings/Reverse.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Strings/VowelsAndConsonentCount.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,9 +27,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Nari-2002&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Nari-2002/DSA-PYTHON.git&quot;,
+    &quot;accountId&quot;: &quot;340c8867-8098-4298-9d7e-c7f53b78414e&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2lDXuW9FTEteSb6Tb1T9nKbhNmO" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -58,9 +56,11 @@
     "Python.ArmstrongNum.executor": "Run",
     "Python.CheckPrime.executor": "Run",
     "Python.CountDgts.executor": "Run",
+    "Python.CountWorsds.executor": "Run",
     "Python.DecToBinary.executor": "Run",
     "Python.Factorial.executor": "Run",
     "Python.Fibnocii.executor": "Run",
+    "Python.FrequencyofaChar.executor": "Run",
     "Python.GCD.executor": "Run",
     "Python.LCM.executor": "Run",
     "Python.Palindrome.executor": "Run",
@@ -68,6 +68,7 @@
     "Python.Reverse.executor": "Run",
     "Python.SumOfDigits.executor": "Run",
     "Python.SumOfNNaturals.executor": "Run",
+    "Python.VowelsAndConsonentCount.executor": "Run",
     "Python.even_odd.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "dart.analysis.tool.window.visible": "false",
@@ -91,21 +92,20 @@
       <option name="presentableId" value="Default" />
       <updated>1724715844661</updated>
     </task>
+    <task id="LOCAL-00001" summary="first-commit">
+      <option name="closed" value="true" />
+      <created>1724778804457</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1724778804457</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
-    <option name="OPEN_GENERIC_TABS">
-      <map>
-        <entry key="89c64a1b-78dc-4c5f-a796-8c742747669f" value="EDITOR" />
-      </map>
-    </option>
     <option name="TAB_STATES">
       <map>
-        <entry key="89c64a1b-78dc-4c5f-a796-8c742747669f">
-          <value>
-            <State />
-          </value>
-        </entry>
         <entry key="MAIN">
           <value>
             <State>
@@ -125,5 +125,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first-commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first-commit" />
   </component>
 </project>
